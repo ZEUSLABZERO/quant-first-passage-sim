@@ -1,12 +1,12 @@
 # quant-first-passage-sim
 
-[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://github.com/ZEUSLABZERO/zero-trace-lite)
+[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=readme_badge)
 
 Which comes first on an account with rules — the profit target, the daily loss limit or the maximum loss? A small seeded Monte Carlo script answers that for the numbers you enter.
 
 MIT-licensed · Python standard library only · same model as the free in-browser calculator
 
-**[Open the browser calculator](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/quant/)** | **[CSV audit + process breaker kit ($99)](https://zeuslab.gumroad.com/l/quant-drawdown-bot-guard-kit)**
+**[Open the browser calculator](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/quant/?utm_source=github_repo)** | **[CSV audit + process breaker kit ($99)](https://zeuslab.gumroad.com/l/quant-drawdown-bot-guard-kit)**
 
 ```sh
 git clone https://github.com/ZEUSLABZERO/quant-first-passage-sim.git
