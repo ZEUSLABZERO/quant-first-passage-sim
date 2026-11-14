@@ -8,7 +8,9 @@ Which comes first on an account with rules — the profit target, the daily loss
 
 MIT-licensed · Python standard library only · same model as the free in-browser calculator
 
-**[Open the browser calculator](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/quant/?utm_source=github_repo)** | **[CSV audit + process breaker kit ($99)](https://zeuslab.gumroad.com/l/quant-drawdown-bot-guard-kit)**
+**[Open the browser calculator](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/quant/?utm_source=github_repo)** | **[CSV audit + process breaker kit ($149; $99 with the launch code until 30 November 2026)](https://zeuslab.gumroad.com/l/quant-drawdown-bot-guard-kit/QUANT99?utm_source=github_repo)**
+
+More from ZEUS LAB: [every product, side by side](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/products/?utm_source=github_repo) · [the studio](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo) · [free pack ($0): included files and a sample record](https://zeuslab.gumroad.com/l/pre-release-check-pack?utm_source=github_repo)
 
 ```sh
 git clone https://github.com/ZEUSLABZERO/quant-first-passage-sim.git
