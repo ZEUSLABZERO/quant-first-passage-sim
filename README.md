@@ -10,6 +10,8 @@ MIT-licensed · Python standard library only · same model as the free in-browse
 
 **[Open the browser calculator](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/quant/?utm_source=github_repo)** | **[CSV audit + process breaker kit ($149; $99 with the launch code until 30 November 2026)](https://zeuslab.gumroad.com/l/quant-drawdown-bot-guard-kit/QUANT99?utm_source=github_repo)**
 
+**New from ZEUS LAB — [FORMA](https://forma-zero.com/?utm_source=github_repo&utm_content=v55-readme):** live 3D and 4D web works you can launch as your own. The free starter (KAZE, $0) is a scroll-in launch page with every word in one `EDIT` block. MCP: `claude mcp add --transport http forma https://zeuslab-zero.com/mcp`
+
 More from ZEUS LAB: [every product, side by side](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/products/?utm_source=github_repo) · [the studio](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo) · [free pack ($0): included files and a sample record](https://zeuslab.gumroad.com/l/pre-release-check-pack?utm_source=github_repo)
 
 Free tools that run in your browser, nothing uploaded: [Paste-Guard — mask names, companies and amounts before an AI chat](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/paste-guard/?utm_source=github_repo) · [Paste-Guard as a Chrome side-panel extension (free ZIP, one permission, no network)](https://github.com/ZEUSLABZERO/zero-trace-lite/releases/tag/paste-guard-extension-v1.0.2) · [Vision Score — pixel statistics of a screenshot or a video](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/vision/?utm_source=github_repo) · [Remix Dojo — five palettes and three type pairings on one slide](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/dojo/?utm_source=github_repo)
@@ -48,3 +50,4 @@ MIT (see `LICENSE`). © 2026 ZEUS LAB
 ---
 
 **日本語の要約：** ルールのある口座で、利益目標・1日の損失上限・最大損失のどれに先に届くかを、入力した数字について数える小さな計算スクリプトです。無料のブラウザ計算機と同じ模型で、シードを固定すれば同じ結果になります。予測でも売買の推奨でもなく、投資助言ではありません。
+
